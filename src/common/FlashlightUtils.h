@@ -17,7 +17,7 @@
 #include <string>
 #include <vector>
 
-#include </usr/flashlight/flashlight.h>
+#include "/usr/flashlight/flashlight.h"
 
 #include "common/Utils.h"
 
